@@ -6,7 +6,7 @@ import datetime
 # Tic Tac Toe Stats and Game simulator.
 # Allows us to estimate for arbitrary grid sizes whether there is a first mover advantage or not.
 # Also allows us to estimate which is the best grid reference to start the game with.
-
+# Copyright 2017 Azahar Machwe, Bristol, UK
 class Grid:
     """Tic Tac Toe Grid"""
 
